@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Dillon. I'm a Web/Software Developer.
+Check out my projects -> [dmcquade.dev](https://www.dmcquade.dev)
 
 <!--
 **dillonkmcquade/dillonkmcquade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
