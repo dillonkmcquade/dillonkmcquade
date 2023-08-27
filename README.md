@@ -2,7 +2,7 @@
 - Check out my projects -> [dmcquade.dev](https://www.dmcquade.dev)
 - I'm currently learning Go at the moment
 - I mostly use Typescript
-- I love command-line applications, my favorites are tmux, Lazygit, and Neovim
+- I love command-line applications, my favorites are tmux, Lazygit, and Neovim (check out my [configs](https://github.com/dillonkmcquade/config-files))
 - Fun fact: I've been using Fedora for the past 3 years and love it
 
 <!--
