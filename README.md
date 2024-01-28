@@ -3,7 +3,7 @@
 - I'm currently learning Go at the moment
 - I mostly use Typescript
 - I love command-line applications, my favorites are tmux, Lazygit, and Neovim
-- Fun fact: I've been using Fedora for the past 3 years and love it
+- Fun fact: I've been using Fedora for the past 4 years and love it
 
 <!--
 **dillonkmcquade/dillonkmcquade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
