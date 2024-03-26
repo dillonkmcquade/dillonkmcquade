@@ -1,7 +1,6 @@
-### Hi there 👋 I'm Dillon. I'm a Web/Software Developer.
+### Hi there 👋 I'm Dillon. I'm a Software Developer.
 - Check out my projects -> [dmcquade.dev](https://www.dmcquade.dev)
-- I'm currently learning Go at the moment
-- I mostly use Typescript
+- My favorite programming language is Go, but I also like Java and Python. I occasionally write some Typescript too.
 - I love command-line applications, my favorites are tmux, Lazygit, and Neovim
 - Fun fact: I've been using Fedora for the past 4 years and love it
 
